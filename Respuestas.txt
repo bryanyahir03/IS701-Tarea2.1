@@ -1,0 +1,21 @@
+Bryan Yahir Hernandez Caballero
+20202000380
+--------------------------------
+
+LINK DE GITHUB:
+https://github.com/bryanyahir03/IS701-Tarea2.1/
+
+
+RESPUESTAS:
+
+1. ¿Fue peor o mejor? 
+R./ Fue ligeramente mejor con una precision del 71.18% usando únicamente regresión lineal.
+
+2. ¿Por qué crees que es así?
+R./ Es así porque los datos utilizados tienen mucha variabilidad para un modelo tan basico como 
+    el de regresión lineal, por lo que es imposible capturar toda esa variación en la información
+    con una linea recta en un plano multidimensional. 
+
+    Considero que se llego al 71% por haber hecho una limpieza de los datos y un procesamiento de datos
+    considerable. Además se realizaron 11 experimentos en los que se probaron distintos escenarios para
+    ver si la precisión aumentaba y no pudo hacerlo.
